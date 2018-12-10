@@ -1,0 +1,10 @@
+{"inclusion_list":["https://childrenslegalcentre.wales/how-the-law-affects-me/at-home/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/in-trouble/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/at-school/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/relationships/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/work/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/play/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/online/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/health/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/shops/",
+                      "https://childrenslegalcentre.wales/how-the-law-affects-me/on-the-street/"]}
