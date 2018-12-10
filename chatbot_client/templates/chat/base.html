@@ -1,0 +1,14 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CLC Chatbot</title>
+        <link href="{% static 'css/general.css' %}" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        {% block content %}
+        {% endblock %}
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script src="{% static 'js/app.js' %}"></script>
+    </body>
+</html>

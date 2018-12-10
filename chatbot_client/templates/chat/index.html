@@ -1,0 +1,36 @@
+{% extends 'chat/base.html' %}
+{% block content %}
+<div id="wrapper">
+    <div id="conversation">
+        <h5 class="chatbot-title">Smart Advisor</h5>
+        <hr/>
+        <div id="chatboard">
+        </div>
+        <div id="controls">
+            <input id="chatbox" type="text">
+            <div id="button">
+                <div id="sendbutton">
+                    Send
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="backend" style="display:none">
+        <h1>ChatBot Context</h1>
+        <p>Children's Legal Centre Wales, is a charity that focuses on the laws and legislation surrounding children and young people
+        in Wales. They are invested in the promise that they will have adequite access to the laws that affect them and the
+        knowledge understand their rights. In the development of their new platform, an chatbot will be created to interface
+        with the users of the website. </p>
+        
+        <p>Due to the age group, this chatbot will have to converse with children and also be
+        able to generate cases. This differs from previous chatbots used in the industry as they generally only do one or
+        the other.</p>
+
+        <div id="json-context"></div>
+        <div id="report-button">
+            Generate Report
+        </div>
+    </div>
+    <iframe id = "clc_frame" src="https://childrenslegalcentre.wales"></iframe>
+</div>
+{% endblock %}

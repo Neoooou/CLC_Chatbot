@@ -1,0 +1,344 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+
+body {
+    background-color: #F4F4F4;
+    font-family: 'Roboto', sans-serif;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+}
+
+wrapper {
+    width: 100%;
+    height: 100vh;
+}
+
+#conversation {
+    width: 70%;
+    height: 100vh;
+    float: left;
+    padding: 50px;
+    box-sizing: border-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#chatboard {
+    width: 100%;
+    height: 92%;
+    margin-bottom: 20px;
+    overflow-y: scroll;
+    z-index:-10;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+#controls {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#chatbox {
+    width: 83%;
+    height: 70px;
+    background-color: white;
+    border: 0.5px solid #CCCCCC;
+    float: left;
+    border-radius: 10px;
+    padding-left: 30px;
+    box-sizing: border-box;
+    font-size: 1.2em;
+    vertical-align: middle;
+    padding-right: 30px;
+    color: gray;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+#chatbox:focus, input:focus {
+    outline: none;
+    border: 0px;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+#sendbutton {
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    line-height: 70px;
+    background-color: #7DC242;
+    border-radius: 15px;
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: 700;
+    color: white;
+    font-size: 1.2em;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin: 0 auto;
+
+    transition: width 0.5s;
+    transition: height 0.5s;
+}
+
+#button {
+    float: right;
+    width: 15%;
+    height: 70px;
+    margin-top: 20px;
+}
+
+#sendbutton:hover {
+    background-color: #75B735;
+}
+
+/* native for button click */
+#sendbutton:active {
+    background-color: #6DAF2E;
+    width:97%;
+    height: 98%;
+    margin-top: 1%;
+}
+
+/* duplicate for keypress */
+#sendbutton.active {
+    background-color: #6DAF2E;
+    width:97%;
+    height: 98%;
+    margin-top: 1%;
+}
+
+#chatbubble {
+    width: 400px;
+    background-color: #B0AFB0;
+    border-radius: 20px;
+    padding: 25px;
+    color: white;
+    font-size: 1.1em;
+    position: relative;
+    margin-bottom: 30px;
+    -webkit-touch-callout: text;
+    -webkit-user-select: text;
+    -khtml-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+#chatbubble:hover {
+    margin-left: 0px;
+}
+
+#chatbubble.user {
+    background-color: #7DC242;
+    float: right;
+    margin-right: 0px;
+}
+
+#json-context {
+    max-height: 380px;
+    overflow: scroll;
+    outline: 1px solid #ccc;
+    padding: 5px;
+    margin: 5px;
+}
+
+#chatbubble.bot:after{
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 0 15px 20px;
+    left: 0;
+    bottom: -14px;
+    display: block;
+    position: absolute;
+    border-color: transparent transparent transparent #b0afb0;
+}
+
+#chatbubble.user:after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 20px 15px 0;
+    left: 430px;
+    bottom: -14px;
+    display: block;
+    position: absolute;
+    border-color: transparent #7DC242 transparent transparent;
+}
+
+
+#chatbubble.bot {
+    background-color: #B0AFB0;
+    float: left;
+
+    margin-left: 0px;
+}
+
+#backend {
+    width: 29.9%;
+    height: 100vh;
+    float: right;
+    background-color: #3A3A3A;
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    box-sizing: border-box;
+    color: white;
+    overflow-y: auto;
+    position: relative;
+}
+
+#backend h1 {
+    width: 100%;
+    border-bottom: 1px solid white;
+}
+
+#backend p {
+    font-size: 0.9em;
+    line-height: 25px;
+    color: #CCCCCC;
+}
+
+#marker {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#tooltip {
+    display: none;
+    position: absolute;
+    background-color: #4c4c4c;
+    text-decoration: none;
+    font-size: 0.8em;
+    padding: 10px;
+    border-radius: 5px;
+    left: 40px;
+    top: -28px;
+    font-weight: normal;
+    float: right;
+    margin-left: -270px;
+    margin-top: 45px;
+    text-align: center;
+}
+
+#marker:hover #tooltip {
+    display: inherit;
+}
+
+pre {}
+.string { color: #41f49d; }
+.number { color: #f49441; }
+.boolean { color: #418ef4; }
+.null { color: #d641f4; }
+.key { color: #f44e42; }
+
+#report-button {
+    width: 90%;
+    height: 50px;
+    background-color: #D78C12;
+    color: white;
+    border-radius: 5px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    cursor: pointer;
+
+    -webkit-touch-callout: text;
+    -webkit-user-select: text;
+    -khtml-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+/* --css transformation*/
+#button{
+    width: 18%;
+    height: 35px;
+}
+#sendbutton{
+    line-height: 40px;
+}
+
+#chatbox{
+    width: 81%;
+    height: 37px;
+}
+#conversation{
+    position: fixed;
+    right: 3px;
+    bottom: 4px;
+    width: 25%;
+    height: 100vh;
+    border: 1px solid #e1e8ed;
+    border-radius: 13px;
+    padding-bottom: 34px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+iframe{
+    width: 75%;
+    height: 99vh;
+}
+
+#chatbubble{
+    width:265px;
+    padding:8px;
+}
+#matched_doc{
+    float: right;
+    width: 28%;
+    height: 49vh;
+    background-color: #3A3A3A;
+    padding: 10px;
+    padding-left: 26px;
+    padding-right: 35px;
+    box-sizing: border-box;
+    color: white;
+    position: relative;
+    overflow-y: auto;
+}
+.chatbot-title{
+    text-align: center;
+    line-height: 0px;
+    font-size: 12px;
+}
+#chatboard{
+    height:90%;
+    overflow-y: auto;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    height: 1px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+     -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+    background: #535353;
+}
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    background: #EDEDED;
+}
+
+
