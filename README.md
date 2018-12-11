@@ -1,2 +1,2 @@
 # CLC_Chatbot
-A diaglogue system for the Children's Legal Center
+A distributed diaglogue system for the Children's Legal Center
