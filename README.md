@@ -2,3 +2,4 @@
 # CLC_Chatbot
 A distributed diaglogue system for the Children's Legal Center
 $$X_1$$
+<script type="math/tex; mode=display">
