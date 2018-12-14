@@ -1,0 +1,342 @@
+[arrested] I was arrested for something I didn’t do
+[arrested] I was arrested and I don't know what to do
+[arrested] I am not sure why I was arrested
+[arrested] I was arrested
+[arrested] The police hand-cuffed me
+[arrested] It hurt when the police hand-cuffed me 
+[arrested] Why did I get arrested?
+[arrested] What did I do wrong to be arrested?
+[arrested] Why did the police nick me?
+[arrested] I didn't do anything wrong and then the police arrested me.
+[arrested] I didn't do anything for the police to arrest me.
+[arrested] There was nothing I did to be arrested.
+[arrested] It wasn't fair that I was arrested.
+[arrested] Was it right that I was arrested?
+[arrested] I just hanging out with my friends when I was arrested.
+[banned] I got banned from Tesco’s. what can I do? {answer}
+[banned] Why did I get kicked out of Tesco's  {answer}
+[banned] I got banned from a shop, what can I do? {answer}
+[banned] I got pushed outside a shop
+[banned] How come I got kicked out of Asdas
+[banned] Someone kicked me out of a shop.
+[banned] I got caught shoplifting and now I am banned from the shop.
+[banned] I was just arguing with the shop keeper and I got banned from the shop.
+[banned] It wasn't fair that I got banned from the shop.
+[banned] It wasn't right that I got kicked out of the shop.
+[banned] It wasn't fair for the shop keeper to kick me out.
+[banned] Why did I get banned from the shop?
+[banned] How do I repeal against a shop ban?
+[banned] Is it okay to go into a shop that I was banned from?
+[banned] Why cannot enter this shop?
+[trespassing] I’ve been told I was trespassing.
+[trespassing] What does it mean to trespass? {answer}
+[trespassing] I got a warning because I was trespassing. What can I do? {Trespassing can be dangerous in situations}
+[trespassing] What is the problem with trespassing? {answer}
+[trespassing] What is trespass? {answer} Is it a crime? {answer}
+[smoking-in-public] Is it against the law to smoke in the street? {answer}
+[smoking-in-public] Why can't I smoke inside? {answer}
+[smoking-in-public] Am I allowed to smoke? {answer}
+[smoking-in-public] Is it illegal for me to vape? {answer}
+[smoking-in-public] Is it wrong for me to smoke an e-cig? {answer}
+[smoking-in-public] Is it okay for me to smoke an e-cig? {answer}
+[smoking-in-public] Can I smoke an e-cigarette
+[smoking-in-public] Someone told me off for smoking.
+[smoking-in-public] Someone told me off for vaping.
+[smoking-in-public] Someone told me off for smoking an e-cig.
+[somking-in-public] Is it okay to vape inside? {answer}
+[smoking-in-public] Can I smoke an e-cig inside? {answer}
+[underage-sex] Is it a crime to have sex under 16? {answer}
+[underage-sex] My girlfiend is under 16, can we have sex? {answer}
+[underage-sex] My boyfriend is under 16, can we have sex? {answer}
+[underage-sex] My gf is under 16, can we have sex? {answer}
+[underage-sex] My bf is under 16, can we have sex? {answer}
+[underage-sex] Is it okay to have sex with my girlfiend. She is 15.
+[underage-sex] Can I have sex with my boyfriend. He is 15.
+[underage-sex] Why can't I have sex with my boyfriend, when he is 15.
+[underage-sex] Why can't I have sex with my girlfiend, when she is 15.
+[community-resolution] I’ve been given a community resolution but I don't understand it.
+[community-resolution] What is a community resolution.
+[community-resolution] Why did I get a community resolution? {answer}
+[community-resolution] How do I get rid of a community resolution? {answer}
+[community-resolution] What does a community resolution do? {answer}
+[community-resolution] What the heck is a community resolution? {answer}
+[community-resolution] Why was I given a community resolution? {answer}
+[restorative-disposal] My son has been given a youth restorative disposal. What does that mean? {answer}
+[restorative-disposal] My daughter has been given a youth restorative disposal. What does that mean? {answer}
+[restorative-disposal] I was given a restorative disposal, what is that? {answer}
+[lying] I said I did something but I didn’t
+[lying] Is it wrong to lie to someone about something I didn't do? {answer}
+[lying] I lied to the police about something I did.
+[lying] I lied ot the police about something I did not do.
+[lying] Someone I know lied to the police.
+[lying] Someone I know said they did something but they didn't.
+[lying] I said guilty but I’m not guilty. What will happen? {answer}
+[lying] My friend did something bad and wants me to say I did it {answer}
+[conditional-caution] What is a youth conditional caution? Will it show up as a criminal record? {answer}
+[conditional-caution] Do you know what a conditional caution is? {answer}
+[conditional-caution] Why did I get a conditional caution? {answer}
+[conditional-caution] Someone I know got a conditional caution, what does that mean? {answer}
+[conditional-caution] What is a conditional caution?
+[conditional-caution] How did I get a conditional caution.
+[conditional-caution] It wasn't fair that I got a conditional caution.
+[court] I’ve been told I’ve been diverted from court. What does this mean? {answer}
+[court] Someone I know has been diverted to court.
+[court] James has been diverted to court, what does that mean?
+[court] Why do I have to go court?
+[court] People will make fun of me if I go to court.
+[court] I don't like going to court but they are making me.
+[court] What does being diverted to court mean?
+[court] I want to stop going to court.
+[court] Is it okay if I don't go to court?
+[army] Will my record show up if I go in the army? {answer}
+[army] I have a criminal record. Will it appear if I go in the army {answer}
+[army] Am I allowed to join the army if I have a criminal record? {answer}
+[army] Is it okay to join the army with a criminal record? {answer}
+[army] I am afraid to join the army because I have a criminal record.
+[army] Can I still join the army with a criminal record.
+[army] Should I tell my parents that I want to join the army?
+[army] My friend wants to join the army and his parents won't let him.
+[army] At what age can I join the army?
+[army] Can I join the army with a criminal record?
+[army] My parents won't let me join the army.
+[court] What are my rights to a solicitor at court? {answer}
+[court] What are my rights in court? {answer}
+[court] I have a friend who is going to court, they want to know what their rights are. 
+[court] Can I get a solicitor if I go to court? {answer}
+[arrested] What are my rights on arrest? {answer}
+[arrested] What are my rights in a police station? {answer}
+[arrested] My friend was arrested. What can I do? {answer}
+[arrested] I got arrested by the police, what are my rights? {answer}
+[arrested] James got arrested, is there anything I can do to help him? {answer}
+[criminal-record] Am I going to get a record? {answer}
+[criminal-record] Will I get a criminal record? {answer}
+[criminal-record] What happens if I get a caution? {answer}
+[criminal-record] What is a youth caution? {answer}
+[conditional-caution] What is a conditional caution? {answer}
+[conditional-caution] I am afriad about this conditional caution that I got.
+[conditional-caution] I got a conditional caution, but it is not my fault.
+[court] I don’t understand why I have to go to court
+[court] I’m scared of giving evidence
+[court] Why do they want me to give evidence. {answer}
+[court] Why do I have to give evidence? {answer}
+[arrested] I don’t know why I’m in trouble
+[court] What sentence will I get for fighting? {answer}
+[drugs] What can I get for possession? {answer}
+[drugs] What is the penalty for supply? {answer}
+[court] Who will know I have to go to the YOT? {answer}
+[criminal-record] Do I have to declare my conviction when I go for a job? {answer}
+[court] I’ve been referred to the Bureau. What does that mean? {answer}
+[court] What is a Bureau? {answer}
+[arrested] I was told off by a police officer
+[arrested] A police man shouted at me
+[arrested] A police lady shouted at me
+[arrested] A police woman shouted at me
+[arrested] The police shouted at me
+[arrested] The police shouted at me but it wasn't my fault
+[court] How can I get a lawyer to help me in court? {answer}
+[court] How many times can I be diverted from court? {answer}
+[information-disclosure] I know something is going to happen and I don’t know who to tell
+[information-disclosure] My parents are doing something wrong. Should I tell? {answer}
+[information-disclosure] I know someone who is doing something wrong. Should I tell someone? {answer}
+[information-disclosure] Someone I know is doing something bad. Should I tell someone? {answer}
+[information-disclosure] Is it wrong to not tell someone if I've done something wrong? {answer}
+[information-disclosure] My dad has done something bad. 
+[information-disclosure] My mum has done something wrong.
+[information-disclosure] My mam has done something bad.
+[drugs] I found drugs in my house. What should I do? {answer}
+[drugs] I have drugs in my house, but I don't know what to do.
+[drugs] Someone has put drugs in my house and I am scared that someone will think it is mine.
+[drugs] There are drugs in my house, but they aren't mine.
+[smoking-in-public] Is it illegal to smoke near children? {answer}
+[information-disclosure] I found a gun in my dad’s car
+[drugs] What can I do if I know someone is dealing drugs? {answer}
+[information-disclosure] If I report a crime will they know it was me? {answer}
+[information-disclosure] Can I be named and shamed? {answer}
+[criminal-record] What is the sex offenders register? {answer}
+[information-disclosure] A paedophile lives in my street. I’m scared.
+[criminal-record] At what age can I be charged with a crime? {answer}
+[abuse] I hit my mum
+[family-matters] My dad took my phone.
+[family-matters] My mum took away my wifi code.
+[family-matters] My dad stole my Xbox.
+[family-matters] My mum took away my play station.
+[family-matters] My dad changed the WIFI password.
+[family-matters] It wasn't fair for my dad to change the WIFI.
+[family-matters] My dad wouldn't let me play anything until I cleaned.
+[abuse] My dad keeps hitting me
+[abuse] My friend keeps calling me names and poking me
+[arrested] I’ve been arrested for shop-lifting
+[arrested] I nicked a football and now I’ve been done for it
+[criminal-record] What is the penalty for shop-lifting? {answer}
+[abuse] What will happen to my child if I tell the police she hits me? {answer}
+[abuse] My boyfriend hit me. What can I do? {answer} 
+[abuse] My girlfriend cut me. I want it to stop
+[information-disclosure] I know who stabbed that man. Who can I tell without getting into trouble? {answer}
+[asylum] I’m in trouble with the police but I’m an asylum seeker. What will happen? {answer}
+[asylum] Will I be deported if I get a criminal record? {answer}
+[asylum] Can I be deported if I get a criminal record?
+[asylum] I just got a criminal record, will I be deported?
+[asylum] I don't want to be deported.
+[asylum] I am an asylum seeker and I just got a criminal record.
+[hate-crime] What can I do about hate-crime? {answer}
+[hate-crime] What is hate-crime? {answer}
+[hate-crime] I’m being bullied because I am black
+[hate-crime] I’m a victim of race hate
+[cyber-crime] Someone shared a picture of me on line. What can I do? {answer}
+[cyber-crime] Someone is sexting me. I want them to stop.
+[cyber-crime] I’m being trolled
+[cyber-crime] Is trolling a crime? {answer}
+[cyber-crime] someone online is bullying me.
+[cyber-crime] someone on the internet was trolling me.
+[cyber-crime] a person on the internet was mean to me and my friends
+[cyber-crime] I was chatting on this website when someone was mean to me
+[cyber-crime] Someone hacked my facebook account and my friends made fun of me
+[cyber-crime] Someone hacked my twitter account and my friends made fun of me
+[police-matters] The police are hassling me
+[police-matters] The police won’t leave me and my friends alone in the park
+[police-matters] The police keep stopping and searching me
+[police-matters] I keep being stopped and searched
+[police-matters] I was kept in a police cell
+[police-matters] A spit hood was put on me
+[police-matters] They stuck a hood on me in the cell
+[police-matters] They hurt me in the police van.
+[police-matters] The police were mean to me.
+[police-matters] I don't think the police were doing the right thing.
+[police-matters] The police were mean to my friends
+[arrested] I’ve been done for GBH
+[arrested] I don't think that I should of been arrested.
+[police-matters] The police said it was ABH but I was only defending myself
+[arrested] I was only chopsing but they nicked me
+[court] I don’t know whether to go guilty or not guilty
+[court] I don't want to go to court
+[court] I don't want to testify.
+[court] Do I have to go to court?
+[court] Why are they making me go to court?
+[court] My parents are making me testify.
+[court] My dad is making me go to court.
+[court] The police are making me go to court.
+[court] I have to testify against someone I know.
+[court] I don't want to give evidence.
+[court] What will happen if I give evidence.
+[telling-on-me] I have been grassed up
+[telling-on-me] Someone dobbed me in for something I didn’t do
+[telling-on-me] Someone snaked on me. I didn’t do it. What can I do? {answer}
+[telling-on-me] My ex-boyfriend told the police I’m a sex worker
+[telling-on-me] I’ve been charged with theft but I only borrowed it
+[arrested] I’ve been done for stabbing
+[weapons] I’m looking after a weapon. How do I get rid of it? {answer}
+[weapons] My friend wants me to look after his gun. Is that a crime? {answer}
+[weapons] I found sharps in the house. Who should I tell? {answer}
+[weapons] I found some weapons in the house, what should I do with them?
+[weapons] I found some knives in my house, what should I do with them?
+[weapons] I am not sure how these weapons got into my house, but I don't want anyone to think they are mine.
+[weapons] I am afraid people will think that my dad's weapons are mine.
+[weapons] What can I do about my dad's guns?
+[weapons] What can I do about my dad's weapons?
+[hate-crime] I get picked on coz I’m a gyspsy
+[hate-crime] They pick on me because I’m a Traveller
+[court] How can I get bail? {answer}
+[court] Will I get bail and will I have to pay? {answer}
+[banned] We were moved on from hanging out at Macdonalds but we weren’t doing anything wrong
+[banned] They said we were abusing staff at Macdonalds but we weren’t
+[information-disclosure] Boys in my school are meeting up and organising fights. I’m scared. What can I do? {answer}
+[information-disclosure] Who can I tell about the fights that people are making?
+[cyber-crime] I’ve been hacked. What can I do? {answer}
+[cyber-crime] My Instagram has been hacked
+[identity-theft] Someone stole my identity
+[identity-theft] I think someone stole my identity
+[identity-theft] I think someone might be pretending to be me.
+[identity-theft] Is it wrong to pretend to be someone else?
+[identity-theft] Someone is pretending to be me to do things.
+[information-disclosure] Is it a crime to ride a motorbike in a gang? {answer}
+[information-disclosure] I’ve done something wrong.
+[information-disclosure] Is it illegal to ride a bike without lights? {answer}
+[underage-sex] I’m 14 and my boyfriend is 17. Is it legal for us to have sex? {answer}
+[underage-sex] I’ve been told I can be charged with rape but she’s my girlfriend
+[drugs] What is a legal high? {answer}
+[drugs] Is it okay to get high off legal drugs?
+[drugs] Can I get high legally?
+[drugs] Is it legal to smoke things that are not banned?
+[drugs] What drugs are banned?
+[drugs] Can I get legally high?
+[drugs] Is this drug banned?
+[drugs] What is wrong with getting high legally?
+[hate-crime] Is it a crime to mock religion? {answer}
+[hate-crime] Is it legal to say you don’t like Muslims? {answer}
+[hate-crime] Is it illegal to make fun of other religions?
+[hate-crime] I got in trouble because I made fun of someones religion.
+[hate-crime] Is it okay to make fun of someone because of other peoples religion?
+[hate-crime] My friend got in trouble because he made fun of someone else's religion.
+[hate-crime] Is is a hate crime to make fun of someone because of what they believe?
+[hate-crime] Why did I get in trouble for making fun of someone's religion?
+[hate-crime] I got told off because I made fun of someone's religion?
+[drugs] Is it always illegal to smoke pot? {answer}
+[drugs] Is it a crime to grow weed? {answer}
+[drugs] My friends were smoking drugs and my parents caught me.
+[drugs] I was smoking drugs and my parents caught me.
+[drugs] I was smoking weed when my dad caught me.
+[drugs] I was smoking weed when my mam caught me.
+[drugs] I was smoking weed when my mum caught me.
+[drugs] My friends were smoking weed when people told on us.
+[drugs] I don't like that my friends are smoking weed around me.
+[drugs] How can I get my friends to stop smoking weed?
+[drugs] I don't like that my dad grows weed.
+[drugs] I don't like it when my parents sell weed.
+[drugs] I know someone that sells weed.
+[cyber-crime] I’ve been told I can get a criminal record for streaming music. Is that true? {answer}
+[cyber-crime] Is it illegal to use a Kodi Box? {answer}
+[cyber-crime] Can I use android boxes? {answer}
+[cyber-crime] Is Twitter streaming legal? {answer}
+[cyber-crime] Is watching tv online okay? {answer}
+[cyber-crime] Is it okay to stream tv online? {answer}
+[cyber-crime] Can I stream television online? {answer}
+[cyber-crime] Can I watch tv on the internet? {answer}
+[cyber-crime] Is it ok to watch tv online? {answer}
+[cyber-crime] Is it ok to go on the dark web? {answer}
+[cyber-crime] What is the dark web? {answer}
+[cyber-crime] Why can't you go on the dark web? {answer}
+[cyber-crime] What is wrong with the dark web? {answer}
+[cyber-crime] Would I get in trouble for going on the dark web? {answer}
+[cyber-crime] I went on the dark web, will I get in trouble? {answer}
+[cyber-crime] How do you get onto the dark web? {answer}
+[cyber-crime] What is the deep web? {answer}
+[cyber-crime] Is it illegal to go onto the dark web? {answer}
+[cyber-crime] Someone on the internet was making fun of me and my friends.
+[cyber-crime] Someone on online is making fun of me and my friends.
+[cyber-crime] Someone on the internet is saying they will find and kill me.
+[cyber-crime] Someone on the internet is scaring me.
+[cyber-crime] Someone online is telling me that they are going to find me.
+[cyber-crime] Someone hacked my facebook account
+[cyber-crime] Someone hacked my twitter account
+[cyber-crime] Someone logged into my facebook account
+[cyber-crime] Someone logged into my twitter account
+[cyber-crime] My friends logged into my facebook account and made fun of me
+[cyber-crime] My friends logged into my facebook account and made fun of me
+[abuse] I got beaten up in rugby. No-one is doing anything about it. What can I do? {answer}
+[abuse] I got punched while playing football, who should I tell? {answer}
+[abuse] Someone punched me, what is the best thing to do? {answer}
+[abuse] I was playing football and shaun punched me.
+[abuse] I was playing rugby and james punched me.
+[abuse] My friend punched me.
+[abuse] My dad hit me.
+[abuse] My mam hit me.
+[abuse] My dad punched me.
+[abuse] I hit my dad.
+[abuse] I punched my dad.
+[abuse] I punched my step-father.
+[abuse] I hit my step-mother.
+[abuse] My parents keep hitting me.
+[abuse] My parents hit me.
+[abuse] My parents smacked me.
+[abuse] My parents punched me.
+[drugs] Is it legal to use steroids for body-building? {answer}
+[drugs] At the gym they are saying I can take pills to help build muscle. Is that legal? {answer}
+[drugs] Is it ok to buy diet pills online? {answer}
+[drugs] Is it legal to take medicine a doctor has not prescribed? {answer}
+[police-matters] I was just talking but they said I was being abusive to police officers
+[police-matters] I was't being abusive to the police
+[police-matters] How come the police men thought I was being abusive?
+[police-matters] Is it a crime to shout at a police man?
+[police-matters] Is it a crime to argue with a police man?
+[police-matters] Is it wrong to argue with the police lady?
+[police-matters] How come they thought I was being abusive to the police woman?
