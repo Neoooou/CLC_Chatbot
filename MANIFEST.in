@@ -1,2 +1,0 @@
-include chatbot/schema.sql
-global-exclude *.pyc
